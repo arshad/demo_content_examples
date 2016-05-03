@@ -1,0 +1,9 @@
+entity_type: file
+bundle: file
+content:
+  file_1:
+    uuid: 61bdc2a3-d56d-443f-8488-10ca4ab7b42a
+    path: $PATH$/images/wild.jpg
+  file_2:
+    uuid: 691b01e8-2af4-4b53-916d-f38033af5cb6
+    path: $PATH$/images/cacheme.jpg
